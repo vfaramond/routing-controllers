@@ -1,7 +1,6 @@
 {
-  "name": "routing-controllers",
-  "private": true,
-  "version": "0.7.8",
+  "name": "@vfaramond/routing-controllers",
+  "version": "0.7.9",
   "description": "Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage for Express / Koa using TypeScript.",
   "license": "MIT",
   "readmeFilename": "README.md",
